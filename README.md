@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @McDanThaMan
-- 👀 I’m interested in Data Analytics, 
+- 👀 I’m interested in Data Analytics, Holinova Thermo, etc 
 -  🌱 I’m currently learning Python, C++, just starting JavaScript 
 - 💞️ I’m looking to collaborate on any cool projects
 - 📫 How to reach me: my email is tyson_mcdaniel@hotmail.com 
